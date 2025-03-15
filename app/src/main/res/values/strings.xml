@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Restaurant Application</string>
+    <string name="transaction_id_12345">Transaction ID: 12345</string>
+    <string name="amount_100_00">Amount: $100.00</string>
+    <string name="date_01_01_2025">Date: 01-01-2025</string>
+    <string name="fetch_transactions">Fetch Transactions</string>
+    <string name="processing_payment">Processing Payment</string>
+    <string name="_0">₹0</string>
+    <string name="food_name">Food Name</string>
+    <string name="home">Home</string>
+    <string name="top_dishes">Top Dishes</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="place_order">Place Order</string>
+    <string name="total_0">Total: ₹0</string>
+    <string name="order_now">Order Now</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="_100">₹100</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="go_to_menu">Go to Menu</string>
+    <string name="go_to_payment">Go to Payment</string>
+    <string name="x1">x1</string>
+    <string name="payment_screen">Payment Screen</string>
+    <string name="go_to_dish_details">Go to Dish Details</string>
+    <string name="previous_order">Previous Order</string>
+    <string name="_06_01_2025_12_26_07">06/01/2025 12:26:07</string>
+    <string name="order_id_w9b320cm79lkc29">Order id #w9b320cm79lkc29</string>
+    <string name="rs_550">Rs 550</string>
+    <string name="view_order">View order</string>
+    <string name="cart">Cart</string>
+    <string name="payment">Payment</string>
+    <string name="image_desc">Dishes images</string>
+    <string name="_06_01_2025">_06_01_2025</string>
+    <string name="order_price">order_price</string>
+    <string name="cart_button_description">Go to your cart</string>
+    <string name="menu_button_description">Go to your menu</string>
+    <string name="payment_button_description">Go to payment</string>
+    <string name="todo">TODO</string>
+    <string name="rs_199">Rs. 199</string>
+    <string name="dash">-</string>
+    <string name="_1">1</string>
+    <string name="plus">+</string>
+    <string name="total_rs_0">Total: Rs. 0</string>
+    <string name="your_order">Your Order</string>
+    <string name="total_0_00">Total: $0.00</string>
+    <string name="switch_language_english_hindi">Switch Language (English/Hindi)</string>
+    <string name="famous_dishes">Famous Dishes</string>
+    <string name="switch_language">switch_language</string>
+    <string name="language">language</string>
+    <string name="menu">Menu</string>
+
+
+</resources>
